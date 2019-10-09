@@ -1,0 +1,27 @@
+$ git init 
+$ git remote add origin https://github.com/corilang2011/rico.jigijog.git
+$ git add .
+$ git commit -m "Message"
+add remote files...
+$ git push -u origin master
+add update remote files...
+$ git push -u origin rico
+
+create branch
+$ git branch rico
+
+go to branch
+$ git checkout master
+$ git checkout rico
+$ git merge rico
+
+Remove .env from github
+git rm -r --cached .
+git add .
+git commit -m ".gitignore is now working"
+
+To undo git rm --cached filename, use git add filename.
+
+$ git rm .env -f --cached
+$ git rm .env.example -f --cached
+git commit -m "Remove env files"
