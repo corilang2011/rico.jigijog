@@ -1,0 +1,30 @@
+install vtur
+
+You need to make cross-env working globally instead of having it in the project.
+
+1) remove node_modules folder
+
+2) run
+
+npm install --global cross-env
+
+3) remove "cross-env": "^5.0.1", from package.json file devDependencies section. Actually, you can skip this step and keep package.json intact. If you prefer.
+
+4) run
+
+npm install --no-bin-links
+
+5) run
+
+npm run dev
+
+==============
+Authentication failed: 
+php artisan passport:install 
+===================
+for syntax:
+install vetur 
+============
+Reference: 
+https://stackoverflow.com/questions/45034581/laravel-5-4-cross-env-is-not-recognized-as-an-internal-or-external-command
+==============
