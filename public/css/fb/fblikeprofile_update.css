@@ -1,0 +1,41 @@
+div._156n:hover {
+                background: #333333bf;
+            }
+        .profilePicThumb{
+            background: rgba(0, 0, 0, .15);
+            border-radius: 100%;
+            padding: 1px;
+            margin: 0 auto;
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-position: center;
+            display: block;
+            height: 130px;
+            position: relative;
+            width: 130px;
+        
+        }
+        ._11kf{
+            background-color: #fff;
+            display: block;
+            height: 130px;
+            position: relative;
+            width: 130px;
+            margin: auto;
+            text-align: center;
+            vertical-align: middle;
+            border-radius: 100%;
+        }
+        ._23fv{
+            width: 160px;
+            height: 80px;
+            margin: auto;
+            margin-bottom: -20px;
+        }
+        ._1o59{
+            margin: 0 auto;
+            margin-top: -60px;
+            overflow: hidden;
+            width: 129px;
+            height: 60px;
+        }

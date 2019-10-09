@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /admin/
+
+sitemap: https://www.jigijog.com/sitemap.xml
+sitemap: http://www.jigijog.com/sitemap.xml
+
+User-agent: facebookexternalhit
+Allow:
+
+sitemap: https://www.jigijog.com/sitemap.xml

@@ -1,0 +1,234 @@
+[09-May-2019 16:42:30 Etc/GMT] PHP Parse error:  syntax error, unexpected '=' in /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Support/Arr.php on line 388
+[09-May-2019 16:42:34 Etc/GMT] PHP Parse error:  syntax error, unexpected '=' in /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Support/Arr.php on line 388
+[17-Jul-2019 08:31:13 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 199233536 bytes) in /home/fivemeyr/public_html/jigijog.com/app/Http/Controllers/ReferralProgramController.php on line 42
+[22-Jul-2019 10:58:29 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 199233536 bytes) in /home/fivemeyr/public_html/jigijog.com/app/Http/Controllers/ReferralProgramController.php on line 46
+[25-Jul-2019 21:51:25 UTC] PHP Fatal error:  Can't use method return value in write context in /home/fivemeyr/public_html/jigijog.com/app/Http/Controllers/ReferralProgramController.php on line 54
+[31-Jul-2019 16:20:34 UTC] Some message here.
+[31-Jul-2019 16:20:34 UTC] Some message here.
+[31-Jul-2019 16:20:44 UTC] Some message here.
+[31-Jul-2019 16:21:02 UTC] Some message here.
+[31-Jul-2019 16:21:02 UTC] Some message here.
+[13-Aug-2019 11:31:59 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php:779
+Stack trace:
+#0 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(779): ReflectionClass->__construct('view')
+#1 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build('view')
+#2 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('view', Array)
+#3 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(759): Illuminate\Container\Container->make('view', Array)
+#4 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(1222): Illuminate\Foundation\Application->make('view')
+#5 /home/fivemeyr/public_html/jigijog.com/v in /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 779
+[13-Aug-2019 11:31:59 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php:779
+Stack trace:
+#0 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(779): ReflectionClass->__construct('view')
+#1 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build('view')
+#2 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('view', Array)
+#3 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(759): Illuminate\Container\Container->make('view', Array)
+#4 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(1222): Illuminate\Foundation\Application->make('view')
+#5 /home/fivemeyr/public_html/jigijog.com/v in /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 779
+[13-Aug-2019 11:32:11 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php:779
+Stack trace:
+#0 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(779): ReflectionClass->__construct('view')
+#1 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build('view')
+#2 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('view', Array)
+#3 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(759): Illuminate\Container\Container->make('view', Array)
+#4 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(1222): Illuminate\Foundation\Application->make('view')
+#5 /home/fivemeyr/public_html/jigijog.com/v in /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 779
+[13-Aug-2019 11:32:11 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php:779
+Stack trace:
+#0 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(779): ReflectionClass->__construct('view')
+#1 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build('view')
+#2 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('view', Array)
+#3 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(759): Illuminate\Container\Container->make('view', Array)
+#4 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(1222): Illuminate\Foundation\Application->make('view')
+#5 /home/fivemeyr/public_html/jigijog.com/v in /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 779
+[13-Aug-2019 11:32:13 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php:779
+Stack trace:
+#0 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(779): ReflectionClass->__construct('view')
+#1 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build('view')
+#2 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('view', Array)
+#3 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(759): Illuminate\Container\Container->make('view', Array)
+#4 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(1222): Illuminate\Foundation\Application->make('view')
+#5 /home/fivemeyr/public_html/jigijog.com/v in /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 779
+[13-Aug-2019 11:32:13 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php:779
+Stack trace:
+#0 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(779): ReflectionClass->__construct('view')
+#1 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build('view')
+#2 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('view', Array)
+#3 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(759): Illuminate\Container\Container->make('view', Array)
+#4 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(1222): Illuminate\Foundation\Application->make('view')
+#5 /home/fivemeyr/public_html/jigijog.com/v in /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 779
+[13-Aug-2019 11:32:54 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php:779
+Stack trace:
+#0 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(779): ReflectionClass->__construct('view')
+#1 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build('view')
+#2 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('view', Array)
+#3 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(759): Illuminate\Container\Container->make('view', Array)
+#4 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(1222): Illuminate\Foundation\Application->make('view')
+#5 /home/fivemeyr/public_html/jigijog.com/v in /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 779
+[13-Aug-2019 11:32:54 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php:779
+Stack trace:
+#0 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(779): ReflectionClass->__construct('view')
+#1 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build('view')
+#2 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('view', Array)
+#3 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(759): Illuminate\Container\Container->make('view', Array)
+#4 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(1222): Illuminate\Foundation\Application->make('view')
+#5 /home/fivemeyr/public_html/jigijog.com/v in /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 779
+[13-Aug-2019 11:33:01 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php:779
+Stack trace:
+#0 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(779): ReflectionClass->__construct('view')
+#1 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build('view')
+#2 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('view', Array)
+#3 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(759): Illuminate\Container\Container->make('view', Array)
+#4 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(1222): Illuminate\Foundation\Application->make('view')
+#5 /home/fivemeyr/public_html/jigijog.com/v in /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 779
+[13-Aug-2019 11:33:01 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php:779
+Stack trace:
+#0 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(779): ReflectionClass->__construct('view')
+#1 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build('view')
+#2 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('view', Array)
+#3 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(759): Illuminate\Container\Container->make('view', Array)
+#4 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(1222): Illuminate\Foundation\Application->make('view')
+#5 /home/fivemeyr/public_html/jigijog.com/v in /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 779
+[13-Aug-2019 11:33:19 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php:779
+Stack trace:
+#0 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(779): ReflectionClass->__construct('view')
+#1 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build('view')
+#2 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('view', Array)
+#3 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(759): Illuminate\Container\Container->make('view', Array)
+#4 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(1222): Illuminate\Foundation\Application->make('view')
+#5 /home/fivemeyr/public_html/jigijog.com/v in /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 779
+[13-Aug-2019 11:33:19 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php:779
+Stack trace:
+#0 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(779): ReflectionClass->__construct('view')
+#1 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build('view')
+#2 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('view', Array)
+#3 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(759): Illuminate\Container\Container->make('view', Array)
+#4 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(1222): Illuminate\Foundation\Application->make('view')
+#5 /home/fivemeyr/public_html/jigijog.com/v in /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 779
+[13-Aug-2019 11:33:23 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php:779
+Stack trace:
+#0 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(779): ReflectionClass->__construct('view')
+#1 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build('view')
+#2 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('view', Array)
+#3 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(759): Illuminate\Container\Container->make('view', Array)
+#4 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(1222): Illuminate\Foundation\Application->make('view')
+#5 /home/fivemeyr/public_html/jigijog.com/v in /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 779
+[13-Aug-2019 11:33:23 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php:779
+Stack trace:
+#0 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(779): ReflectionClass->__construct('view')
+#1 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build('view')
+#2 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('view', Array)
+#3 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(759): Illuminate\Container\Container->make('view', Array)
+#4 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(1222): Illuminate\Foundation\Application->make('view')
+#5 /home/fivemeyr/public_html/jigijog.com/v in /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 779
+[13-Aug-2019 11:33:53 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php:779
+Stack trace:
+#0 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(779): ReflectionClass->__construct('view')
+#1 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build('view')
+#2 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('view', Array)
+#3 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(759): Illuminate\Container\Container->make('view', Array)
+#4 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(1222): Illuminate\Foundation\Application->make('view')
+#5 /home/fivemeyr/public_html/jigijog.com/v in /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 779
+[13-Aug-2019 11:33:53 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php:779
+Stack trace:
+#0 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(779): ReflectionClass->__construct('view')
+#1 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build('view')
+#2 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('view', Array)
+#3 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(759): Illuminate\Container\Container->make('view', Array)
+#4 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(1222): Illuminate\Foundation\Application->make('view')
+#5 /home/fivemeyr/public_html/jigijog.com/v in /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 779
+[13-Aug-2019 11:35:41 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php:779
+Stack trace:
+#0 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(779): ReflectionClass->__construct('view')
+#1 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build('view')
+#2 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('view', Array)
+#3 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(759): Illuminate\Container\Container->make('view', Array)
+#4 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(1222): Illuminate\Foundation\Application->make('view')
+#5 /home/fivemeyr/public_html/jigijog.com/v in /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 779
+[13-Aug-2019 11:35:41 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php:779
+Stack trace:
+#0 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(779): ReflectionClass->__construct('view')
+#1 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build('view')
+#2 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('view', Array)
+#3 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(759): Illuminate\Container\Container->make('view', Array)
+#4 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(1222): Illuminate\Foundation\Application->make('view')
+#5 /home/fivemeyr/public_html/jigijog.com/v in /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 779
+[13-Aug-2019 11:35:44 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php:779
+Stack trace:
+#0 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(779): ReflectionClass->__construct('view')
+#1 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build('view')
+#2 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('view', Array)
+#3 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(759): Illuminate\Container\Container->make('view', Array)
+#4 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(1222): Illuminate\Foundation\Application->make('view')
+#5 /home/fivemeyr/public_html/jigijog.com/v in /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 779
+[13-Aug-2019 11:35:44 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php:779
+Stack trace:
+#0 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(779): ReflectionClass->__construct('view')
+#1 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build('view')
+#2 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('view', Array)
+#3 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(759): Illuminate\Container\Container->make('view', Array)
+#4 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(1222): Illuminate\Foundation\Application->make('view')
+#5 /home/fivemeyr/public_html/jigijog.com/v in /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 779
+[13-Aug-2019 11:35:53 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php:779
+Stack trace:
+#0 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(779): ReflectionClass->__construct('view')
+#1 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build('view')
+#2 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('view', Array)
+#3 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(759): Illuminate\Container\Container->make('view', Array)
+#4 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(1222): Illuminate\Foundation\Application->make('view')
+#5 /home/fivemeyr/public_html/jigijog.com/v in /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 779
+[13-Aug-2019 11:35:53 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php:779
+Stack trace:
+#0 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(779): ReflectionClass->__construct('view')
+#1 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build('view')
+#2 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('view', Array)
+#3 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(759): Illuminate\Container\Container->make('view', Array)
+#4 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(1222): Illuminate\Foundation\Application->make('view')
+#5 /home/fivemeyr/public_html/jigijog.com/v in /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 779
+[13-Aug-2019 11:35:54 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php:779
+Stack trace:
+#0 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(779): ReflectionClass->__construct('view')
+#1 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build('view')
+#2 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('view', Array)
+#3 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(759): Illuminate\Container\Container->make('view', Array)
+#4 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(1222): Illuminate\Foundation\Application->make('view')
+#5 /home/fivemeyr/public_html/jigijog.com/v in /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 779
+[13-Aug-2019 11:35:54 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php:779
+Stack trace:
+#0 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(779): ReflectionClass->__construct('view')
+#1 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build('view')
+#2 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('view', Array)
+#3 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(759): Illuminate\Container\Container->make('view', Array)
+#4 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(1222): Illuminate\Foundation\Application->make('view')
+#5 /home/fivemeyr/public_html/jigijog.com/v in /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 779
+[13-Aug-2019 11:38:25 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php:779
+Stack trace:
+#0 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(779): ReflectionClass->__construct('view')
+#1 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build('view')
+#2 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('view', Array)
+#3 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(759): Illuminate\Container\Container->make('view', Array)
+#4 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(1222): Illuminate\Foundation\Application->make('view')
+#5 /home/fivemeyr/public_html/jigijog.com/v in /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 779
+[13-Aug-2019 11:38:25 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php:779
+Stack trace:
+#0 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(779): ReflectionClass->__construct('view')
+#1 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build('view')
+#2 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('view', Array)
+#3 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(759): Illuminate\Container\Container->make('view', Array)
+#4 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(1222): Illuminate\Foundation\Application->make('view')
+#5 /home/fivemeyr/public_html/jigijog.com/v in /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 779
+[13-Aug-2019 11:38:27 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php:779
+Stack trace:
+#0 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(779): ReflectionClass->__construct('view')
+#1 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build('view')
+#2 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('view', Array)
+#3 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(759): Illuminate\Container\Container->make('view', Array)
+#4 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(1222): Illuminate\Foundation\Application->make('view')
+#5 /home/fivemeyr/public_html/jigijog.com/v in /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 779
+[13-Aug-2019 11:38:27 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php:779
+Stack trace:
+#0 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(779): ReflectionClass->__construct('view')
+#1 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build('view')
+#2 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('view', Array)
+#3 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(759): Illuminate\Container\Container->make('view', Array)
+#4 /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(1222): Illuminate\Foundation\Application->make('view')
+#5 /home/fivemeyr/public_html/jigijog.com/v in /home/fivemeyr/public_html/jigijog.com/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 779
