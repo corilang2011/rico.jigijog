@@ -1,0 +1,31 @@
+--------------------------
+Upload Large Files in Xampp Phpmyadmin
+--------------------------
+
+--------------------------
+>> Changes Config In Php .ini
+--------------------------
+post_max_size = 750M 
+upload_max_filesize = 750M 
+max_execution_time = 5000 
+max_input_time = 5000 
+memory_limit = 1000M 
+--------------------------
+
+--------------------------
+>> phpMyAdmin\libraries\config.default.php
+--------------------------
+/**
+ * maximum execution time in seconds (0 for no limit)
+ *
+ * @global integer $cfg['ExecTimeLimit']
+ */
+$cfg['ExecTimeLimit'] = 0;
+--------------------------
+
+--------------------------
+>> Changes config in my.ini
+--------------------------
+max_allowed_packet = 200M
+innodb_log_file_size = 250M
+--------------------------
